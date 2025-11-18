@@ -1,0 +1,48 @@
+﻿@model PremiumModel
+
+@{
+    ViewBag.Title = "Premium Calculator";
+}
+
+<h2>Monthly Premium Calculator</h2>
+
+<form method="post">
+
+    <label>Name</label>
+    <input type="text" name="Name" value="@Model.Name" class="form-control" />
+    <span style="color:red;">@Html.ValidationMessage("Name")</span>
+    <br />
+    <label>Age Next Birthday</label>
+    <input type="number" name="AgeNextBirthday" value="@Model.AgeNextBirthday" class="form-control" />
+    <span style="color:red;">@Html.ValidationMessage("AgeNextBirthday")</span>
+    <br />
+    <label>Date of Birth (MM/YYYY)</label>
+    <input type="month" name="DOB" value="@Model.DOB" class="form-control" />
+    <span style="color:red;">@Html.ValidationMessage("DOB")</span>
+    <br />
+    <label>Occupation</label>
+    <select name="Occupation" class="form-control" onchange="this.form.submit()">
+        <option value="">-- Select Occupation --</option>
+        @foreach (var item in ViewBag.Occupations)
+        {
+            <option value="@item" selected="@(Model.Occupation == item)">
+                @item
+            </option>
+        }
+    </select>
+    <span style="color:red;">@Html.ValidationMessage("Occupation")</span>
+    <br />
+    <label>Death – Sum Insured</label>
+    <input type="number" name="DeathSumInsured" value="@Model.DeathSumInsured" class="form-control" />
+    <span style="color:red;">@Html.ValidationMessage("DeathSumInsured")</span>
+
+    <br />
+
+    <button type="submit" class="btn btn-primary">Calculate</button>
+
+    @if (Model.MonthlyPremium > 0)
+    {
+        <h3 style="color:green;">Premium: $@Model.MonthlyPremium</h3>
+    }
+
+</form>

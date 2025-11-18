@@ -1,0 +1,89 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Monthly Premium Calculator</title>
+    <style>
+        body { font-family: Arial; width: 500px; margin: 30px auto; }
+        label { display: block; margin-top: 10px; }
+        input, select { width: 100%; padding: 8px; margin-top: 5px; }
+        #premium { margin-top: 20px; font-size: 20px; font-weight: bold; color: green; }
+    </style>
+</head>
+<body>
+
+    <h2>Monthly Premium Calculator</h2>
+
+    <label>Name</label>
+    <input type="text" id="name">
+
+    <label>Age Next Birthday</label>
+    <input type="number" id="age">
+
+    <label>Date of Birth (MM/YYYY)</label>
+    <input type="month" id="dob">
+
+    <label>Usual Occupation</label>
+    <select id="occupation" onchange="calculatePremium()">
+        <option value="">-- Select Occupation --</option>
+        <option value="Cleaner">Cleaner (Light Manual)</option>
+        <option value="Doctor">Doctor (Professional)</option>
+        <option value="Author">Author (White Collar)</option>
+        <option value="Farmer">Farmer (Heavy Manual)</option>
+        <option value="Mechanic">Mechanic (Heavy Manual)</option>
+        <option value="Florist">Florist (Light Manual)</option>
+        <option value="Other">Other (Heavy Manual)</option>
+    </select>
+
+    <label>Death – Sum Insured</label>
+    <input type="number" id="cover">
+
+    <div id="premium">Premium: $0.00</div>
+
+    <script>
+        const ratingFactors = {
+            "Professional": 1.5,
+            "White Collar": 2.25,
+            "Light Manual": 11.50,
+            "Heavy Manual": 31.75
+        };
+
+        const occupationMap = {
+            "Cleaner": "Light Manual",
+            "Doctor": "Professional",
+            "Author": "White Collar",
+            "Farmer": "Heavy Manual",
+            "Mechanic": "Heavy Manual",
+            "Florist": "Light Manual",
+            "Other": "Heavy Manual"
+        };
+
+        function calculatePremium() {
+            let name = document.getElementById("name").value;
+            let age = document.getElementById("age").value;
+            let dob = document.getElementById("dob").value;
+            let occupation = document.getElementById("occupation").value;
+            let cover = document.getElementById("cover").value;
+
+            // Mandatory validation
+            if (!name || !age || !dob || !occupation || !cover) {
+                document.getElementById("premium").innerHTML = "Premium: $0.00 (Fill all fields)";
+                return;
+            }
+
+            let ratingName = occupationMap[occupation];
+            let factor = ratingFactors[ratingName];
+
+            let premium = (cover * factor * age) / 1000 * 12;
+
+            document.getElementById("premium").innerHTML =
+                "Premium: $" + premium.toFixed(2);
+        }
+    </script>
+
+</body>
+</html>
