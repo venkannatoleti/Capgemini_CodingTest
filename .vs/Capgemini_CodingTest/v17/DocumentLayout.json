@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\venky\\work\\Coding Test\\Capgemini_CodingTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D74AEB6D-95AF-4969-BE49-2B5100E736F4}|Capgemini_CodingTest\\Capgemini_CodingTest.csproj|c:\\venky\\work\\coding test\\capgemini_codingtest\\capgemini_codingtest\\tests\\premiumtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D74AEB6D-95AF-4969-BE49-2B5100E736F4}|Capgemini_CodingTest\\Capgemini_CodingTest.csproj|solutionrelative:capgemini_codingtest\\tests\\premiumtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D74AEB6D-95AF-4969-BE49-2B5100E736F4}|Capgemini_CodingTest\\Capgemini_CodingTest.csproj|c:\\venky\\work\\coding test\\capgemini_codingtest\\capgemini_codingtest\\models\\premiummodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D74AEB6D-95AF-4969-BE49-2B5100E736F4}|Capgemini_CodingTest\\Capgemini_CodingTest.csproj|solutionrelative:capgemini_codingtest\\models\\premiummodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D74AEB6D-95AF-4969-BE49-2B5100E736F4}|Capgemini_CodingTest\\Capgemini_CodingTest.csproj|c:\\venky\\work\\coding test\\capgemini_codingtest\\capgemini_codingtest\\services\\premiumcalculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D74AEB6D-95AF-4969-BE49-2B5100E736F4}|Capgemini_CodingTest\\Capgemini_CodingTest.csproj|solutionrelative:capgemini_codingtest\\services\\premiumcalculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D74AEB6D-95AF-4969-BE49-2B5100E736F4}|Capgemini_CodingTest\\Capgemini_CodingTest.csproj|c:\\venky\\work\\coding test\\capgemini_codingtest\\capgemini_codingtest\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D74AEB6D-95AF-4969-BE49-2B5100E736F4}|Capgemini_CodingTest\\Capgemini_CodingTest.csproj|solutionrelative:capgemini_codingtest\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D74AEB6D-95AF-4969-BE49-2B5100E736F4}|Capgemini_CodingTest\\Capgemini_CodingTest.csproj|c:\\venky\\work\\coding test\\capgemini_codingtest\\capgemini_codingtest\\strategy\\occupationratingstrategyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D74AEB6D-95AF-4969-BE49-2B5100E736F4}|Capgemini_CodingTest\\Capgemini_CodingTest.csproj|solutionrelative:capgemini_codingtest\\strategy\\occupationratingstrategyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D74AEB6D-95AF-4969-BE49-2B5100E736F4}|Capgemini_CodingTest\\Capgemini_CodingTest.csproj|c:\\venky\\work\\coding test\\capgemini_codingtest\\capgemini_codingtest\\controllers\\premiumcalculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D74AEB6D-95AF-4969-BE49-2B5100E736F4}|Capgemini_CodingTest\\Capgemini_CodingTest.csproj|solutionrelative:capgemini_codingtest\\controllers\\premiumcalculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D74AEB6D-95AF-4969-BE49-2B5100E736F4}|Capgemini_CodingTest\\Capgemini_CodingTest.csproj|c:\\venky\\work\\coding test\\capgemini_codingtest\\capgemini_codingtest\\views\\premiumcalculator\\calculate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D74AEB6D-95AF-4969-BE49-2B5100E736F4}|Capgemini_CodingTest\\Capgemini_CodingTest.csproj|solutionrelative:capgemini_codingtest\\views\\premiumcalculator\\calculate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D74AEB6D-95AF-4969-BE49-2B5100E736F4}|Capgemini_CodingTest\\Capgemini_CodingTest.csproj|c:\\venky\\work\\coding test\\capgemini_codingtest\\capgemini_codingtest\\strategy\\heavymanualratingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D74AEB6D-95AF-4969-BE49-2B5100E736F4}|Capgemini_CodingTest\\Capgemini_CodingTest.csproj|solutionrelative:capgemini_codingtest\\strategy\\heavymanualratingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D74AEB6D-95AF-4969-BE49-2B5100E736F4}|Capgemini_CodingTest\\Capgemini_CodingTest.csproj|c:\\venky\\work\\coding test\\capgemini_codingtest\\capgemini_codingtest\\strategy\\whitecollarratingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D74AEB6D-95AF-4969-BE49-2B5100E736F4}|Capgemini_CodingTest\\Capgemini_CodingTest.csproj|solutionrelative:capgemini_codingtest\\strategy\\whitecollarratingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D74AEB6D-95AF-4969-BE49-2B5100E736F4}|Capgemini_CodingTest\\Capgemini_CodingTest.csproj|c:\\venky\\work\\coding test\\capgemini_codingtest\\capgemini_codingtest\\strategy\\professionalratingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D74AEB6D-95AF-4969-BE49-2B5100E736F4}|Capgemini_CodingTest\\Capgemini_CodingTest.csproj|solutionrelative:capgemini_codingtest\\strategy\\professionalratingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D74AEB6D-95AF-4969-BE49-2B5100E736F4}|Capgemini_CodingTest\\Capgemini_CodingTest.csproj|c:\\venky\\work\\coding test\\capgemini_codingtest\\capgemini_codingtest\\strategy\\lightmanualratingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D74AEB6D-95AF-4969-BE49-2B5100E736F4}|Capgemini_CodingTest\\Capgemini_CodingTest.csproj|solutionrelative:capgemini_codingtest\\strategy\\lightmanualratingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D74AEB6D-95AF-4969-BE49-2B5100E736F4}|Capgemini_CodingTest\\Capgemini_CodingTest.csproj|c:\\venky\\work\\coding test\\capgemini_codingtest\\capgemini_codingtest\\strategy\\ioccupationratingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D74AEB6D-95AF-4969-BE49-2B5100E736F4}|Capgemini_CodingTest\\Capgemini_CodingTest.csproj|solutionrelative:capgemini_codingtest\\strategy\\ioccupationratingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D74AEB6D-95AF-4969-BE49-2B5100E736F4}|Capgemini_CodingTest\\Capgemini_CodingTest.csproj|c:\\venky\\work\\coding test\\capgemini_codingtest\\capgemini_codingtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D74AEB6D-95AF-4969-BE49-2B5100E736F4}|Capgemini_CodingTest\\Capgemini_CodingTest.csproj|solutionrelative:capgemini_codingtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D74AEB6D-95AF-4969-BE49-2B5100E736F4}|Capgemini_CodingTest\\Capgemini_CodingTest.csproj|c:\\venky\\work\\coding test\\capgemini_codingtest\\capgemini_codingtest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D74AEB6D-95AF-4969-BE49-2B5100E736F4}|Capgemini_CodingTest\\Capgemini_CodingTest.csproj|solutionrelative:capgemini_codingtest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D74AEB6D-95AF-4969-BE49-2B5100E736F4}|Capgemini_CodingTest\\Capgemini_CodingTest.csproj|c:\\venky\\work\\coding test\\capgemini_codingtest\\capgemini_codingtest\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D74AEB6D-95AF-4969-BE49-2B5100E736F4}|Capgemini_CodingTest\\Capgemini_CodingTest.csproj|solutionrelative:capgemini_codingtest\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PremiumTests.cs",
+              "DocumentMoniker": "C:\\venky\\work\\Coding Test\\Capgemini_CodingTest\\Capgemini_CodingTest\\Tests\\PremiumTests.cs",
+              "RelativeDocumentMoniker": "Capgemini_CodingTest\\Tests\\PremiumTests.cs",
+              "ToolTip": "C:\\venky\\work\\Coding Test\\Capgemini_CodingTest\\Capgemini_CodingTest\\Tests\\PremiumTests.cs",
+              "RelativeToolTip": "Capgemini_CodingTest\\Tests\\PremiumTests.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAwFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T06:32:56.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\venky\\work\\Coding Test\\Capgemini_CodingTest\\Capgemini_CodingTest\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Capgemini_CodingTest\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\venky\\work\\Coding Test\\Capgemini_CodingTest\\Capgemini_CodingTest\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Capgemini_CodingTest\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T06:26:58.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OccupationRatingStrategyFactory.cs",
+              "DocumentMoniker": "C:\\venky\\work\\Coding Test\\Capgemini_CodingTest\\Capgemini_CodingTest\\Strategy\\OccupationRatingStrategyFactory.cs",
+              "RelativeDocumentMoniker": "Capgemini_CodingTest\\Strategy\\OccupationRatingStrategyFactory.cs",
+              "ToolTip": "C:\\venky\\work\\Coding Test\\Capgemini_CodingTest\\Capgemini_CodingTest\\Strategy\\OccupationRatingStrategyFactory.cs",
+              "RelativeToolTip": "Capgemini_CodingTest\\Strategy\\OccupationRatingStrategyFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T06:00:28.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WhiteCollarRatingStrategy.cs",
+              "DocumentMoniker": "C:\\venky\\work\\Coding Test\\Capgemini_CodingTest\\Capgemini_CodingTest\\Strategy\\WhiteCollarRatingStrategy.cs",
+              "RelativeDocumentMoniker": "Capgemini_CodingTest\\Strategy\\WhiteCollarRatingStrategy.cs",
+              "ToolTip": "C:\\venky\\work\\Coding Test\\Capgemini_CodingTest\\Capgemini_CodingTest\\Strategy\\WhiteCollarRatingStrategy.cs",
+              "RelativeToolTip": "Capgemini_CodingTest\\Strategy\\WhiteCollarRatingStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T17:37:37.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProfessionalRatingStrategy.cs",
+              "DocumentMoniker": "C:\\venky\\work\\Coding Test\\Capgemini_CodingTest\\Capgemini_CodingTest\\Strategy\\ProfessionalRatingStrategy.cs",
+              "RelativeDocumentMoniker": "Capgemini_CodingTest\\Strategy\\ProfessionalRatingStrategy.cs",
+              "ToolTip": "C:\\venky\\work\\Coding Test\\Capgemini_CodingTest\\Capgemini_CodingTest\\Strategy\\ProfessionalRatingStrategy.cs",
+              "RelativeToolTip": "Capgemini_CodingTest\\Strategy\\ProfessionalRatingStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T17:37:14.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HeavyManualRatingStrategy.cs",
+              "DocumentMoniker": "C:\\venky\\work\\Coding Test\\Capgemini_CodingTest\\Capgemini_CodingTest\\Strategy\\HeavyManualRatingStrategy.cs",
+              "RelativeDocumentMoniker": "Capgemini_CodingTest\\Strategy\\HeavyManualRatingStrategy.cs",
+              "ToolTip": "C:\\venky\\work\\Coding Test\\Capgemini_CodingTest\\Capgemini_CodingTest\\Strategy\\HeavyManualRatingStrategy.cs",
+              "RelativeToolTip": "Capgemini_CodingTest\\Strategy\\HeavyManualRatingStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T17:36:56.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LightManualRatingStrategy.cs",
+              "DocumentMoniker": "C:\\venky\\work\\Coding Test\\Capgemini_CodingTest\\Capgemini_CodingTest\\Strategy\\LightManualRatingStrategy.cs",
+              "RelativeDocumentMoniker": "Capgemini_CodingTest\\Strategy\\LightManualRatingStrategy.cs",
+              "ToolTip": "C:\\venky\\work\\Coding Test\\Capgemini_CodingTest\\Capgemini_CodingTest\\Strategy\\LightManualRatingStrategy.cs",
+              "RelativeToolTip": "Capgemini_CodingTest\\Strategy\\LightManualRatingStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T17:36:38.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IOccupationRatingStrategy.cs",
+              "DocumentMoniker": "C:\\venky\\work\\Coding Test\\Capgemini_CodingTest\\Capgemini_CodingTest\\Strategy\\IOccupationRatingStrategy.cs",
+              "RelativeDocumentMoniker": "Capgemini_CodingTest\\Strategy\\IOccupationRatingStrategy.cs",
+              "ToolTip": "C:\\venky\\work\\Coding Test\\Capgemini_CodingTest\\Capgemini_CodingTest\\Strategy\\IOccupationRatingStrategy.cs",
+              "RelativeToolTip": "Capgemini_CodingTest\\Strategy\\IOccupationRatingStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T17:36:03.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PremiumCalculatorService.cs",
+              "DocumentMoniker": "C:\\venky\\work\\Coding Test\\Capgemini_CodingTest\\Capgemini_CodingTest\\Services\\PremiumCalculatorService.cs",
+              "RelativeDocumentMoniker": "Capgemini_CodingTest\\Services\\PremiumCalculatorService.cs",
+              "ToolTip": "C:\\venky\\work\\Coding Test\\Capgemini_CodingTest\\Capgemini_CodingTest\\Services\\PremiumCalculatorService.cs",
+              "RelativeToolTip": "Capgemini_CodingTest\\Services\\PremiumCalculatorService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T17:35:31.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\venky\\work\\Coding Test\\Capgemini_CodingTest\\Capgemini_CodingTest\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Capgemini_CodingTest\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\venky\\work\\Coding Test\\Capgemini_CodingTest\\Capgemini_CodingTest\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Capgemini_CodingTest\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T17:12:52.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\venky\\work\\Coding Test\\Capgemini_CodingTest\\Capgemini_CodingTest\\Program.cs",
+              "RelativeDocumentMoniker": "Capgemini_CodingTest\\Program.cs",
+              "ToolTip": "C:\\venky\\work\\Coding Test\\Capgemini_CodingTest\\Capgemini_CodingTest\\Program.cs",
+              "RelativeToolTip": "Capgemini_CodingTest\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T17:11:35.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Calculate.cshtml",
+              "DocumentMoniker": "C:\\venky\\work\\Coding Test\\Capgemini_CodingTest\\Capgemini_CodingTest\\Views\\PremiumCalculator\\Calculate.cshtml",
+              "RelativeDocumentMoniker": "Capgemini_CodingTest\\Views\\PremiumCalculator\\Calculate.cshtml",
+              "ToolTip": "C:\\venky\\work\\Coding Test\\Capgemini_CodingTest\\Capgemini_CodingTest\\Views\\PremiumCalculator\\Calculate.cshtml",
+              "RelativeToolTip": "Capgemini_CodingTest\\Views\\PremiumCalculator\\Calculate.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-17T17:11:01.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PremiumCalculatorController.cs",
+              "DocumentMoniker": "C:\\venky\\work\\Coding Test\\Capgemini_CodingTest\\Capgemini_CodingTest\\Controllers\\PremiumCalculatorController.cs",
+              "RelativeDocumentMoniker": "Capgemini_CodingTest\\Controllers\\PremiumCalculatorController.cs",
+              "ToolTip": "C:\\venky\\work\\Coding Test\\Capgemini_CodingTest\\Capgemini_CodingTest\\Controllers\\PremiumCalculatorController.cs",
+              "RelativeToolTip": "Capgemini_CodingTest\\Controllers\\PremiumCalculatorController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAADAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T17:04:28.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PremiumModel.cs",
+              "DocumentMoniker": "C:\\venky\\work\\Coding Test\\Capgemini_CodingTest\\Capgemini_CodingTest\\Models\\PremiumModel.cs",
+              "RelativeDocumentMoniker": "Capgemini_CodingTest\\Models\\PremiumModel.cs",
+              "ToolTip": "C:\\venky\\work\\Coding Test\\Capgemini_CodingTest\\Capgemini_CodingTest\\Models\\PremiumModel.cs",
+              "RelativeToolTip": "Capgemini_CodingTest\\Models\\PremiumModel.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T14:58:24.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\venky\\work\\Coding Test\\Capgemini_CodingTest\\Capgemini_CodingTest\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Capgemini_CodingTest\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\venky\\work\\Coding Test\\Capgemini_CodingTest\\Capgemini_CodingTest\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Capgemini_CodingTest\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-17T14:56:26.71Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
